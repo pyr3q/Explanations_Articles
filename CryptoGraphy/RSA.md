@@ -1,6 +1,6 @@
 # 🔑 Encoding By RSA Method
 
-<img src="https://image.flaticon.com/icons/png/512/2092/2092480.png" width="300" height="200">
+<img src="https://image.flaticon.com/icons/png/512/2092/2092480.png" width="250">
 
 # 📝 ***Introduction:***
 
@@ -47,3 +47,4 @@
 <a href="https://en.wikipedia.org/wiki/Prime_number">**Prime Numbers**</a>
 
 <img src="https://i.ytimg.com/vi/-jSX9fNJiN8/maxresdefault.jpg" width="600">
+<a href="https://instagram.com/pyr3q">***Made By PyR3Q***</a>
