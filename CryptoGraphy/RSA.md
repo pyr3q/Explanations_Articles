@@ -10,7 +10,7 @@
 
 ***• Mathematical interpretation***
 
-#🔎 Symmetric or Asymmetric Encryption ? 
+# 🔎 Symmetric or Asymmetric Encryption ? 
 
 ***To start this introduction to RSA, we need to understand the difference between these two types of encryption.***
 
