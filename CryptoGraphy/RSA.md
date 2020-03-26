@@ -2,15 +2,15 @@
 
 <img src="https://image.flaticon.com/icons/png/512/2092/2092480.png" width="300" height="200">
 
-# ***Introduction:***
+# 📝 ***Introduction:***
 
-<br>***Differentiate symmetric and asymmetric encryption***
+<br>***• Differentiate symmetric and asymmetric encryption***
 
-***understand RSA encryption***
+***• understand RSA encryption***
 
-***Mathematical interpretation***
+***• Mathematical interpretation***
 
-# Symmetric or Asymmetric Encryption ? 
+#🔎 Symmetric or Asymmetric Encryption ? 
 
 ***To start this introduction to RSA, we need to understand the difference between these two types of encryption.***
 
@@ -27,7 +27,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Chiffrement_asym%C3%A9trique.jpg/661px-Chiffrement_asym%C3%A9trique.jpg" width="650">
 
-# *What is RSA Encryption?*
+# 🔐 *What is RSA Encryption?*
 
 <img src="https://image.flaticon.com/icons/png/512/2092/2092570.png" width="200">
 
@@ -37,7 +37,7 @@
 ***An essential condition is that it is "calculatively impossible" to decrypt using the public key alone, in particular to reconstitute the private key from the public key, that is to say that the means of calculation available and known methods at the time of the exchange (and the time that the secret must be kept) do not allow it.***
 ***Alice is responsible for creating the keys. It does not intervene with each encryption because the keys can be reused. The first difficulty, which encryption does not solve, is that Bob is quite certain that the public key he holds is that of Alice. The renewal of the keys occurs only if the private key is compromised, or as a precaution after a certain time (which can be counted in years).***
 
-# *Mathematical Interpretation*
+# 📚 *Mathematical Interpretation*
 ***To understand this interpretation see:***
 
 
